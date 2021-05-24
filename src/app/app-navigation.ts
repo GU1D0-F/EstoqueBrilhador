@@ -17,5 +17,15 @@ export const navigation = [
         path: '/tasks'
       }
     ]
+  },
+  {
+    text: 'Produtos',
+    icon: 'folder',
+    items: [
+      {
+        text: 'Produtos',
+        path: '/produtos'
+      }
+    ]
   }
 ];
